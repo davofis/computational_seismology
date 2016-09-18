@@ -22,4 +22,6 @@ All directories refer to an specific chapter according with the numbering in the
 |    8    | FV 1D elastic heterogeneous       |                                                        |     New     |
 
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/binder-project/computational_seismology/06_finite_elements/fe_static_elasticity)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/davofis/computational_seismology)
+
+
