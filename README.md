@@ -2,9 +2,13 @@
 
 This repository contains jupyter notebooks to be used as suplementary material for the book [Computational Seismology,A Practical Introduction](https://global.oup.com/academic/product/computational-seismology-9780198717409?cc=de&lang=en&) by Heiner Igel.
 
+## Code Execution:  [![Notebooks](http://mybinder.org/badge.svg)](http://mybinder.org/repo/davofis/computational_seismology)
+The code of this repository can immediately be executed by anyone. Please hit the badge [![Notebooks](http://mybinder.org/badge.svg)](http://mybinder.org/repo/davofis/computational_seismology). This opens all notebooks in an executable environment using the [Binder](http://mybinder.org/) project.
+
 All directories refer to an specific chapter according with the numbering in their names.
 
-##Tasks for jupyter notebooks
+##Tasks for jupyter notebooks:
+
 | Chapter | Notebook                          | Tasks                                                  |    Status   |
 |---------|-----------------------------------|--------------------------------------------------------|:-----------:|
 |    2    | Lambs Problem                     | Write notebook that runs the Fortran code              |    Polish   |
@@ -20,8 +24,5 @@ All directories refer to an specific chapter according with the numbering in the
 |    8    | FV 1D advection scalar            |                                                        |    Polish   |
 |    8    | FV 1D elastic                     |                                                        |    Polish   |
 |    8    | FV 1D elastic heterogeneous       |                                                        |     New     |
-
-
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/davofis/computational_seismology)
 
 
