@@ -18,7 +18,7 @@ All directories refer to an specific chapter according with the numbering in the
 |    5    | Fourier 1D acoustic               | proper source scaling,compare with analytical solution |     New     |
 |    5    | Chebyshev 1D acoustic             | turn into notebook, clean up, add equations, etc       |     New     |
 |    5    | Fourier 2D                        | adapt to seismo-live make it _solution to, 5.22        |     New     |
-|    6    | Finte element static - relaxation |                                                        |    Polish   |
+|    6    | Finte element static - relaxation |                                                        |     DONE    |
 |    6    | FE elastic 1D                     |                                                        |     DONE    |
 |    7    | spectral elements 1D elastic      |                                                        |     New     |
 |    8    | FV 1D advection scalar            |                                                        |    Polish   |
