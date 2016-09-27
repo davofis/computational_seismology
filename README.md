@@ -22,7 +22,7 @@ All directories refer to an specific chapter according with the numbering in the
 |    6    | FE elastic 1D                     |                                                        |     DONE    |
 |    7    | spectral elements 1D elastic      |                                                        |     New     |
 |    8    | FV 1D advection scalar            |                                                        |    Polish   |
-|    8    | FV 1D elastic                     |                                                        |    Polish   |
+|    8    | FV 1D elastic homogeneous         |                                                        |     DONE    |
 |    8    | FV 1D elastic heterogeneous       |                                                        |     New     |
 |    9    | DG 1D elastic homogeneous         |                                                        |     New     |
 |    9    | DG 1D elastic heterogeneous       |                                                        |     New     |
