@@ -21,9 +21,9 @@ All directories refer to an specific chapter according with the numbering in the
 |    6    | Finte element static - relaxation |                                                        |     DONE    |
 |    6    | FE elastic 1D                     |                                                        |     DONE    |
 |    7    | spectral elements 1D elastic      |                                                        |     New     |
-|    8    | FV 1D advection scalar            |                                                        |    Polish   |
+|    8    | FV 1D advection scalar            |                                                        |     DONE    |
 |    8    | FV 1D elastic homogeneous         |                                                        |     DONE    |
 |    8    | FV 1D elastic heterogeneous       |                                                        |     DONE    |
-|    9    | DG 1D elastic homogeneous         |                                                        |     DONE    |
+|    9    | DG 1D elastic homogeneous         |                                                        |     New     |
 |    9    | DG 1D elastic heterogeneous       |                                                        |     New     |
 
