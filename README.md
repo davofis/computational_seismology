@@ -11,7 +11,7 @@ All directories refer to an specific chapter according with the numbering in the
 
 | Chapter | Notebook                          | Tasks                                                  |    Status   |
 |---------|-----------------------------------|--------------------------------------------------------|:-----------:|
-|    2    | Lambs Problem                     | Write notebook that runs the Fortran code              |    Polish   |
+|    2    | Lambs Problem                     | Write notebook that runs the Fortran code              |     DONE    |
 |    2    | Double couple analytical solution | Improve the existing python code                       |     DONE    |
 |    5    | Fourier derivative                | Polish                                                 | In Progress |
 |    5    | Chebyshev derivative              | Polish                                                 | In Progress |
