@@ -12,7 +12,7 @@ All directories refer to an specific chapter according with the numbering in the
 | Chapter | Notebook                          | Tasks                                                  |    Status   |
 |---------|-----------------------------------|--------------------------------------------------------|:-----------:|
 |    2    | Lambs Problem                     | Write notebook that runs the Fortran code              |    Polish   |
-|    2    | Double couple analytical solution | Improve the existing python code                       |    Polish   |
+|    2    | Double couple analytical solution | Improve the existing python code                       |     DONE    |
 |    5    | Fourier derivative                | Polish                                                 | In Progress |
 |    5    | Chebyshev derivative              | Polish                                                 | In Progress |
 |    5    | Fourier 1D acoustic               | proper source scaling,compare with analytical solution |     New     |
@@ -20,7 +20,7 @@ All directories refer to an specific chapter according with the numbering in the
 |    5    | Fourier 2D                        | adapt to seismo-live make it _solution to, 5.22        |     New     |
 |    6    | Finte element static - relaxation |                                                        |     DONE    |
 |    6    | FE elastic 1D                     |                                                        |     DONE    |
-|    7    | spectral elements 1D elastic      |                                                        |     New     |
+|    7    | spectral elements 1D elastic      |                                                        |     DONE    |
 |    8    | FV 1D advection scalar            |                                                        |     DONE    |
 |    8    | FV 1D elastic homogeneous         |                                                        |     DONE    |
 |    8    | FV 1D elastic heterogeneous       |                                                        |     DONE    |
