@@ -24,7 +24,7 @@ All directories refer to an specific chapter according with the numbering in the
 |    8    | FV 1D advection scalar            |                                                        |     DONE    |
 |    8    | FV 1D elastic homogeneous         |                                                        |     DONE    |
 |    8    | FV 1D elastic heterogeneous       |                                                        |     DONE    |
-|    9    | DG 1D elastic homogeneous         |                                                        |    Polish   |
-|    9    | DG 1D elastic heterogeneous       |                                                        |    Polish   |
+|    9    | DG 1D elastic homogeneous         |                                                        |     DONE    |
+|    9    | DG 1D elastic heterogeneous       |                                                        |     DONE    |
 
 
