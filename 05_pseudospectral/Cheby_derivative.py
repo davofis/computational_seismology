@@ -30,9 +30,6 @@ def get_cheby_matrix(nx):
     D[0,0] = (2.*nx**2+1.)/6.
     D[nx,nx] = -D[0,0]
     return D  
-    
-
-
 
 # Initialize arbitrary test function on Chebyshev collocation points
 nx = 199     # Number of grid points
