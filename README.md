@@ -15,7 +15,7 @@ All directories refer to an specific chapter according with the numbering in the
 |    2    | Double couple analytical solution | Improve the existing python code                       |     DONE    |
 |    5    | Fourier derivative                | Polish                                                 |     DONE    |
 |    5    | Chebyshev derivative              | Polish                                                 |     DONE    |
-|    5    | Fourier 1D acoustic               | proper source scaling,compare with analytical solution |     New     |
+|    5    | Fourier 1D acoustic               | proper source scaling,compare with analytical solution |     DONE    |
 |    5    | Chebyshev 1D elastic              | turn into notebook, clean up, add equations, etc       |     DONE    |
 |    5    | Fourier 2D                        | adapt to seismo-live make it _solution to, 5.22        |     DONE    |
 |    6    | Finte element static - relaxation |                                                        |     DONE    |
